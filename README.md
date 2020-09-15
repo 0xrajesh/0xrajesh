@@ -11,7 +11,7 @@
 - 📫 How to reach me: rajesh-at-haitwik-dot-com
 
 🛠 Skills <br>
-- ##### Experienced with: (notably)
+- #### Experienced with: (notably)
   Blockchain Development Tools (Ethereum, Solidity, Truffle, Ganache, Blockchain DevOps, Hyperledger, IPFS, Blockchain on Cloud - AWS & Azure, Private Blockchain Deployment), C++, C, Node, React, Laravel, Ubuntu, JavaScript
-- ##### Familiar with:
+- #### Familiar with:
   Python, GoLang, ASP.Net, C#, Docker
